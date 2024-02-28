@@ -28,7 +28,7 @@ const FrontPage = () => {
         <p className='mt-4 text-center md:mt-8 md:ml-4 md:mr-4 font-medium'>INSTALLED OVER 10 LAKHS STAR RATED PUMPSETS ACROSS THE COUNTRY RESULTING IN A CUMULATIVE SAVING OF MORE THAN 9,000 MILLION UNITS OF POWER FOR THE NATION.</p>
         <img className='w-full md:w-[1000px] xl:w-[1200px] h-auto mx-auto' src={appliances} alt="appliances" />
         <p className='md:ml-auto md:mr-auto font-normal mt-4 mb-4 sm:text-center text-center mx-auto'>Valves - Pumps - Pipes - IoT Drives & Controllers - Wires & Cables - Solar Systems - Motors</p>
-        <div className="mx-4 md:mx-0 border-t-2 border-red-500"></div>
+        <div className="mx-4 border-t-2 border-red-500"></div>
         <p className='font-bold text-base mx-auto md:mx-auto mb-4 text-center'>C.R.I. FLUID SYSTEMS PRODUCTS CATER TO DIVERSE SEGMENTS</p>
       </div>
       <div className='Footer'>
